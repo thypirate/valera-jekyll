@@ -1,6 +1,6 @@
 # BootstrapMade Valera Theme adapted for Jekyll
 
-[Valera](https://bootstrapmade.com/valera-free-bootstrap-theme/#download) is a theme for [Jekyll](https://jekyllrb.com) adapted from the [Bootstrap](https://getbootstrap.com/) based theme with the same name from the good folks at [CSS Ninja](https://cssninja.io/).
+[Valera](https://bootstrapmade.com/valera-free-bootstrap-theme/#download) is a theme for [Jekyll](https://jekyllrb.com) adapted from the [Bootstrap](https://getbootstrap.com/) based theme with the same name from the good folks at [BootstrapMade](https://bootstrapmade.com/).
 
 ## Preview
 [![Valera](https://github.com/thypirate/valera-jekyll/blob/master/valera.gif)](https://thypirate.github.io/valera-jekyll/)
